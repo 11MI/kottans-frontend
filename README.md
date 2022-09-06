@@ -41,9 +41,9 @@ https://github.com/11MI/kottans-frontend/blob/main/task_linux_cli/introductionMo
 <h3>Output</h3>
 
 | Task type  | Thing that was new for me | Thing that surprised me | Thing that I am going to use in the future | Impression                                                                                                                                                                                                                                                                                                                                                          |
-| ------------- |---------------------------|-------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Reading  | -                         | -                       | -                                          | At first I have started reading article 'HTTP: The Protocol Every Web Developer Must Know' (part 1) on uk locale. I cannot say it was the luckiest translation, so after reading half of it I relised that there is also original verion on en locole and so I switched quickly to it. Again I have just reading what I know before but in different intepretation. |
-| Online course  | -                         | -                       | -                                          | So, main Linux commands have been repeated in course 'Linux Survival'. As it uses the simulated Linux terminal it was easy to consolidate theory.                                                                                                                                                                                                                   |
+| ------------- |--------------------------|-------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reading  | - | - | - | At first I have started reading article 'HTTP: The Protocol Every Web Developer Must Know' (part 1) on uk locale. I cannot say it was the luckiest translation, so after reading half of it I relised that there is also original verion on en locole and so I switched quickly to it. Again I have just reading what I know before but in different intepretation. |
+| Online course  | - | - | - | So, main Linux commands have been repeated in course 'Linux Survival'. As it uses the simulated Linux terminal it was easy to consolidate theory.                                                                                                                                                                                                                   |
 
 ## ✅ Git Collaboration
 <h3>Introduction to Git and GitHub</h3>
@@ -52,12 +52,12 @@ https://github.com/11MI/kottans-frontend/blob/main/task_linux_cli/introductionMo
 https://github.com/11MI/kottans-frontend/blob/main/task_git_collaboration/workingWithRemotesWeek3.png
 
 <h4>2. Collaboration (Week4)</h4>
-
+https://github.com/11MI/kottans-frontend/blob/main/task_git_collaboration/collaborationWeek4.png
 
 <h3>Output</h3>
 
-| Task type  | Thing that was new for me | Thing that surprised me | Thing that I am going to use in the future| Impression |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Reading  |  | - | |-|
-| Video  |  | |  |-|
-| Online course  |-|-|-| |
+| Task type  | Thing that was new for me                          | Thing that surprised me | Thing that I am going to use in the future| Impression |
+| ------------- |----------------------------------------------------| ------------- | ------------- | ------------- |
+| Reading  | Squash and merge commits, more details about CI/CD | - | |-|
+| Video  | Tracking issues in GitHub | |  |-|
+| Online course  | - |-|-| |
