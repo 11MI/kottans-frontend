@@ -13,7 +13,7 @@ https://github.com/11MI/kottans-frontend/blob/main/task_git_basics/usingGitLocal
 <h4>1. Introduction Sequence</h4>
 https://github.com/11MI/kottans-frontend/blob/main/task_git_basics/introductionSequence.png
 <h4>2. Push Pull -- GitRemotes</h4>
-https://github.com/11MI/kottans-frontend/blob/main/task_git_basics/Push%26PullGitRemotes.png
+https://github.com/11MI/kottans-frontend/blob/main/task_git_basics/push%26PullGitRemotes.png
 
 
 <h3>Output</h3>
@@ -53,6 +53,13 @@ https://github.com/11MI/kottans-frontend/blob/main/task_git_collaboration/workin
 
 <h4>2. Collaboration (Week4)</h4>
 https://github.com/11MI/kottans-frontend/blob/main/task_git_collaboration/collaborationWeek4.png
+
+<h3>https://learngitbranching.js.org</h3>
+<h4>1. Cherry-pick/Rebase</h4>
+https://github.com/11MI/kottans-frontend/blob/main/task_git_collaboration/cherryPickRebase.png
+<h4>2. Using Git Remotes</h4>
+https://github.com/11MI/kottans-frontend/blob/main/task_git_basics/.png
+
 
 <h3>Output</h3>
 
