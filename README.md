@@ -58,7 +58,7 @@ https://github.com/11MI/kottans-frontend/blob/main/task_git_collaboration/collab
 <h4>1. Cherry-pick/Rebase</h4>
 https://github.com/11MI/kottans-frontend/blob/main/task_git_collaboration/cherryPickRebase.png
 <h4>2. Using Git Remotes</h4>
-https://github.com/11MI/kottans-frontend/blob/main/task_git_basics/advancedGit.png
+https://github.com/11MI/kottans-frontend/blob/main/task_git_collaboration/advancedGit.png
 
 
 <h3>Output</h3>
